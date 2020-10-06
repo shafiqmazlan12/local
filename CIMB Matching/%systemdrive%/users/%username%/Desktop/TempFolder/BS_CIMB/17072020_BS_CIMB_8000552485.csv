@@ -1,0 +1,10 @@
+Company : M001272 - GENTING MALAYSIA BERHAD
+Account Opening Branch : Wisma Genting
+Account No. : 8000552485/FIRST WORLD HOTELS AND RESORTS SDN BHD 8000552485(MYR)
+Period : 17-07-2020 - 17-07-2020
+Opening Available Balance : 42805.18
+Closing Available Balance : 48596.49
+Account Number,Record Sequence Number,Transaction Date,Transaction Code,Transaction Code Description,Originating Branch Code,Document Reference Number,Transaction Amount,Transaction Amount Type,Balance,Balance Type,Transaction Time,Customer Reference,Filler,Record Type,Recipient Reference,Other Payment Details,Sender Name
+8000552485,2,17072020,0618,"=""AUTOPAY CR""",3471,"=""37233568""",85,C,48596.49,C,133708,"=""TNG STLMNT 160720 FirstWorldHo""",,1,"=""TNG STLMNT 160720 Fi""","=""Transfer From CIMB""","=""E WALLET COLLECTION"""
+8000552485,1,17072020,0141,"=""AUTOPAY CR""",1000,"=""200188""",5706.31,C,48511.49,C,123052,"=""0000001000200188""",,1,"=""000001000200188""","=""MERCHANT SALES PYMT""","=""CIMB BANK CREDIT CAR"""
+
